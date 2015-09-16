@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:28:02.654109
+#+DATE: 2015-08-30 19:28:04.081480
 #+TITLE: 長阿含十報法經
 #+PROPERTY: CBETA_ID T01n0013
 #+PROPERTY: ID KR6a0013
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 013
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6a0013_T_000-0233b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0013_T_002-0237a> 
 #+PROPERTY: JUAN 2
-
- 《長阿含十報法經》卷下¶
+《長阿含十報法經》卷下¶
 ¶
 後漢安息國三藏安世高譯¶
 
@@ -130,7 +129,7 @@
 為四精進方便。¶
 
 「或時行者，應行便念：『我不能作行成教，或¶
-令我居前求方便。』便前行方便，未得當得，¶
+令我居前求方便。』便前行方便，末得當得，¶
 未解當解，未自知當自知。是為五精進方¶
 便。¶
 
