@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 長阿含十報法經
+#+DATE: 2015-08-30 19:28:02.873615
+#+PROPERTY: JUAN 0
